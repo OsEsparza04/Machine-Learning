@@ -1,0 +1,10 @@
+3 essential libraries for Phyton 
+
+// Include mathematical code in our code 
+import numpy as np <<----shorcut
+
+//sublibrary plyplot. Helo us plot charts 
+import matplotlib.plyplot as pit
+
+// to import and manage dataset 
+import pandas as pd 
